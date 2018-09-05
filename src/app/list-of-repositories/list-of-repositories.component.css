@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    padding-bottom: 1em;
+    color: white;
+}
+
+#tb{
+    padding-top: 1.5em;
+    padding-left: 18em;
+    padding-right: 18em;
+}
+body{
+    /*/background-color: rgb(4, 11, 43);*/
+    background-color: rgb(15, 16, 20);
+
+}
+thead{
+    text-align: center;
+}
+
+

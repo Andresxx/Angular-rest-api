@@ -1,0 +1,32 @@
+.row{
+    /*/padding: 5em;*/
+    padding-left: 3.5em;
+}
+.thumbnail{
+    background-color:rgba(6, 83, 97, 0.418);
+    padding: 1.5em;
+    border-style:groove;
+    border-color: white;
+}
+img{
+    min-height: 18em;
+    min-width: 18em;
+    max-width: 18em;
+    max-height: 185em;
+}
+h1{
+    text-align: center;
+    padding-bottom: 1em;
+    color: white;
+}
+h4{
+    color: white;
+
+}
+#box{
+    padding: 1em;
+}
+body{
+    background-color: rgb(15, 16, 20);
+    
+}
